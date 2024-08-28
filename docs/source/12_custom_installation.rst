@@ -51,7 +51,7 @@ Development branch package is located `here <https://aur.archlinux.org/packages/
 Installation from sources
 -------------------------
 
-For manual installation, refer to `Packaging <32_contributing.html#packaging>`_ 
+For manual installation, refer to `Packaging <41_contributing.html#packaging>`_ 
 instruction which describes how and where install files. 
 
 Docker
@@ -187,3 +187,5 @@ In this section the contents of the layer is listed, along with a short help for
 Send pull requests, patches, comments or questions to https://github.com/XavierBerger/meta-rpiexperiences/issues
 
 * **Maintainer**: Xavier Berger
+
+**rpi4** : need to change /dev/vcsm into /dev/vcsm-cma
